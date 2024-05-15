@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tamoky
+- 👋 Hi, I’m @centesis
 - 👀 I’m interested in java!
 - 🌱 I’m currently learning backend!
 - 📫 How to reach me read bio!
